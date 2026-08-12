@@ -1,0 +1,12 @@
+{
+  "name": "SYMMETRA | Soluciones Digitales & Marketing",
+  "short_name": "SYMMETRA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F7FAFC",
+  "theme_color": "#0B2439",
+  "icons": [
+    { "src": "assets/favicon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/favicon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
